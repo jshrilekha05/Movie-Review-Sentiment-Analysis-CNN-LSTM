@@ -43,4 +43,4 @@ The model predicts whether a given movie review expresses a positive or negative
 - Compare CNN and LSTM architectures separately.
 
 ## Author
-Add your name here.
+Jamalpur Shrilekha
